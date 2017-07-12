@@ -1,0 +1,15 @@
+header {height: 100px;
+  background-color: #D6B1EA
+}
+
+main {height: 50px;
+  background-color: #09B1EA
+}
+
+footer {height: 30px;
+  background-color: #09B1EA
+}
+
+h1 {
+  margin: 0;
+}
