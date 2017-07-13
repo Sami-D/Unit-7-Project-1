@@ -11,10 +11,6 @@ main {height: 50px;
   color: #09B1EA
 }
 
-footer {height: 5px;
-  color: #09B1EA
-}
-
 h1 {
   margin: 0;
 }
@@ -32,4 +28,8 @@ main {
 
 h1 {
     color: green;
+}
+
+footer {height: 5px;
+  color: #09B1EA
 }
